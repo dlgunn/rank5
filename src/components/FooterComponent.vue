@@ -1,6 +1,8 @@
 <template>
   <footer>
-    <a href="#">Dallon Gunn | 2022 | Source</a>
+    <a href="https://github.com/dlgunn/rank5.git"
+      >Dallon Gunn | 2022 | Source</a
+    >
   </footer>
 </template>
 
